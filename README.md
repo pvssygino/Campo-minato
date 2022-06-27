@@ -17,8 +17,14 @@ Puoi modificare questi valori intervendendo sulle costanti chiamate rispettivame
 
 
 #define SMALL_MAP
+
+
 #define MED_MAP
+
+
 #define LARGE_MAP
+
+
 dichiarate in map.cpp
 
 
